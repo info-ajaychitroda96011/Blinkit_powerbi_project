@@ -26,10 +26,6 @@
 - Region-wise Performance
 - Interactive Filters & Slicers
 
-## 🔍 Key Insights
-- Electronics category generated highest revenue
-- Q4 has peak sales every year
-- North region outperforms others
 
 ## ▶️ How to Use
 1. Download the `.pbix` file
