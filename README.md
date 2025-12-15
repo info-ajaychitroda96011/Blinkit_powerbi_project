@@ -23,7 +23,7 @@ and revenue insights using interactive dashboards.
 - Interactive Filters & Slicers
 
 ## 📸 Dashboard Screenshots
-![Dashboard]("A:\powerBI_project_2\Screenshot 2025-12-13 235803.png")
+![Dashboard](Screenshot 2025-12-13 235803.png)
 
 ## 🔍 Key Insights
 - Electronics category generated highest revenue
