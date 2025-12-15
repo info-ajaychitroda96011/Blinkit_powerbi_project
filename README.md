@@ -14,6 +14,15 @@
 - DAX
 - Data Cleaning & Modeling
 
+## 🛠️ Tools & Technologies
+
+- **Power BI** – Data modeling, DAX measures, interactive dashboard design, and visual storytelling  
+- **SQL** – Data extraction, transformation, aggregation, and KPI calculation  
+- **Microsoft Excel** – Initial data cleaning, formatting, and validation  
+- **DAX (Data Analysis Expressions)** – Custom measures for total sales, average sales, ratings, and item metrics  
+- **Data Visualization** – KPI cards, bar charts, donut charts, line graphs, and slicers for dynamic analysis
+
+
 ## 📂 Dataset
 - Source: Sample sales dataset
 - Format: CSV
