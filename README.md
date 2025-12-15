@@ -4,8 +4,8 @@
 ![PowerBI Dashboard](Dashboard-1.png)
 
 ## 📌 Project Overview
-This Power BI project analyzes sales performance to identify trends, top products,
-and revenue insights using interactive dashboards.
+This interactive Power BI dashboard provides a comprehensive analysis of Blinkit sales performance across different outlet locations, sizes, and item categories. It highlights key KPIs such as total sales, average sales, number of items sold, and customer ratings. 
+The dashboard enables dynamic filtering by outlet type, size, and item type for deeper insights. Visualizations include sales trends over time, fat content distribution, item-wise performance, and outlet-level comparisons. This project demonstrates strong skills in data modeling, DAX measures, and business-focused data visualization.
 
 ## 🧰 Tools & Technologies
 - Power BI
