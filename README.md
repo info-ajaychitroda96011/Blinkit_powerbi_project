@@ -1,5 +1,8 @@
 # 📊 Power BI Sales Analysis Dashboard
 
+## 📸 Dashboard Screenshots
+![PowerBI Dashboard](Dashboard-1.png)
+
 ## 📌 Project Overview
 This Power BI project analyzes sales performance to identify trends, top products,
 and revenue insights using interactive dashboards.
@@ -21,9 +24,6 @@ and revenue insights using interactive dashboards.
 - Top Products & Categories
 - Region-wise Performance
 - Interactive Filters & Slicers
-
-## 📸 Dashboard Screenshots
-![PowerBI Dashboard](Dashboard-1.png)
 
 ## 🔍 Key Insights
 - Electronics category generated highest revenue
